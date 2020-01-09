@@ -1,0 +1,16 @@
+{
+  "name": "buttplug-nogasm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "buttplug": "^0.3.2",
+    "serialport": "^6.0.4",
+    "ws": "^3.3.2"
+  }
+}
